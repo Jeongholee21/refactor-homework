@@ -3,7 +3,10 @@
 
 ># Description
 - ### First homework assignment for coding class
-  
+
+# Live Website
++ https://jeongholee21.github.io/refactor-homework/
+
 >## User Story
 ```
 AS A marketing agency
