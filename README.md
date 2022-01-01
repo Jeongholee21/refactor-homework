@@ -1,10 +1,12 @@
 ># Name  
 ## Code Refactor 
+</br>
 
 ># Description
-- ### First homework assignment for coding class
+  ### First homework assignment for coding class
+</br>
 
-# Live Website
+># Live Website
 + https://jeongholee21.github.io/refactor-homework/
 
 >## User Story
